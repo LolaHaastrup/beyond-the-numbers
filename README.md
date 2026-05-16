@@ -76,4 +76,4 @@ Then write your **-- So what:** comment answering:
 2. What does it mean for the bank?
 3. What should the bank do because of it?
 
-Drop your answer in the YouTube comments — your mentor will tell you if your so what is strong enough.
+Drop your answer in the YouTube comments.
