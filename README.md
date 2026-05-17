@@ -1,4 +1,4 @@
-# Episode 02 — Your First SQL Query
+# SQL to Dashboard Using Real World Data
 
 **Watch the episode:** [youtube.com/@Beyond_d_Numbers](https://www.youtube.com/@Beyond_d_Numbers)
 
